@@ -1,0 +1,6 @@
+Chispa tiene 80 de energía.
+Luna tiene 50 de energía.
+Rayo tiene 20 de energía.
+Chispa tiene 60 de energía.
+Luna tiene 70 de energía.
+Rayo tiene 60 de energía.
