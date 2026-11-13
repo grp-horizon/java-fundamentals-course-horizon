@@ -1,0 +1,2 @@
+Chispa tiene 100 de energía.
+Energía: 0

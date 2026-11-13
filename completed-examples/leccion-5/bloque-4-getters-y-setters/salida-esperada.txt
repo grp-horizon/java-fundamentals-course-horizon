@@ -1,0 +1,2 @@
+Energía: 100
+Energía: 0
