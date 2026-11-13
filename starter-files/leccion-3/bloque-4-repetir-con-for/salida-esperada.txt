@@ -1,0 +1,4 @@
+Energía: 40
+Energía: 60
+Energía: 80
+Energía final: 80

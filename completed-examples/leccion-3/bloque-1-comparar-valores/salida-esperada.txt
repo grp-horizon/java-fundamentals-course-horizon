@@ -1,0 +1,3 @@
+¿Tiene sueño? false
+¿Está llena? false
+¿Vale 30 o más? true

@@ -1,0 +1,3 @@
+¿Tiene sueño? true
+¿Está llena? false
+¿Vale 15? true

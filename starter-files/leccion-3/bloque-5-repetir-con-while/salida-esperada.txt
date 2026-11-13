@@ -1,0 +1,4 @@
+Energía: 60
+Energía: 80
+Energía: 100
+¡Chispa está llena!
